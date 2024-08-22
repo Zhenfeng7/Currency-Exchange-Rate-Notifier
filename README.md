@@ -1,2 +1,2 @@
-# Currency-Exchange-Rate-Notifier
-This app written in Node.js sends an email notification if the currency exchange rate is at certain point customized by users.
+# Currency-Rate-Alert
+The Currency Rate Alert App is a simple yet powerful tool designed to help users stay on top of currency exchange rates. Developed using Node.js and leveraging the Freecurrencyapi, this app allows you to monitor the exchange rates between two currencies of your choice. Simply set a target exchange rate, and the app will automatically check the rates at regular intervals. If the rate falls below your specified target, you'll receive an email alert, ensuring you never miss an opportunity to make informed financial decisions.
